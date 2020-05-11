@@ -1,0 +1,2 @@
+# Myfirstproject
+simple blog project
